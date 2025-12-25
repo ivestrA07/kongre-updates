@@ -1,0 +1,5 @@
+v1.0.1.8
+
+- Zorunlu güncelleme sistemi eklendi
+- ProgressBar'lı update ekranı
+- Salon giriş raporu iyileştirildi
