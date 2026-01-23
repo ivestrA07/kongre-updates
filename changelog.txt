@@ -1,0 +1,5 @@
+v1.0.1.3
+
+- ProgressBar'lı update ekranı
+- Salon giriş raporu iyileştirildi
+- Uygulama update kapanmıyor
