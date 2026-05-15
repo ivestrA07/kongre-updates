@@ -25,15 +25,15 @@
       </dependentAssembly>
       <dependentAssembly>
         <assemblyIdentity name="DocumentFormat.OpenXml.Framework" publicKeyToken="8fb06cb64d019a17" culture="neutral" />
-        <bindingRedirect oldVersion="0.0.0.0-3.3.0.0" newVersion="3.3.0.0" />
+        <bindingRedirect oldVersion="0.0.0.0-3.5.1.0" newVersion="3.5.1.0" />
       </dependentAssembly>
       <dependentAssembly>
         <assemblyIdentity name="DocumentFormat.OpenXml" publicKeyToken="8fb06cb64d019a17" culture="neutral" />
-        <bindingRedirect oldVersion="0.0.0.0-3.3.0.0" newVersion="3.3.0.0" />
+        <bindingRedirect oldVersion="0.0.0.0-3.5.1.0" newVersion="3.5.1.0" />
       </dependentAssembly>
       <dependentAssembly>
         <assemblyIdentity name="Google.Protobuf" publicKeyToken="a7d26565bac4d604" culture="neutral" />
-        <bindingRedirect oldVersion="0.0.0.0-3.33.2.0" newVersion="3.33.2.0" />
+        <bindingRedirect oldVersion="0.0.0.0-3.34.1.0" newVersion="3.34.1.0" />
       </dependentAssembly>
       <dependentAssembly>
         <assemblyIdentity name="System.Threading.Tasks.Extensions" publicKeyToken="cc7b13ffcd2ddd51" culture="neutral" />
@@ -45,7 +45,7 @@
       </dependentAssembly>
       <dependentAssembly>
         <assemblyIdentity name="System.IO.Pipelines" publicKeyToken="cc7b13ffcd2ddd51" culture="neutral" />
-        <bindingRedirect oldVersion="0.0.0.0-10.0.0.1" newVersion="10.0.0.1" />
+        <bindingRedirect oldVersion="0.0.0.0-10.0.0.8" newVersion="10.0.0.8" />
       </dependentAssembly>
       <dependentAssembly>
         <assemblyIdentity name="Microsoft.Bcl.AsyncInterfaces" publicKeyToken="cc7b13ffcd2ddd51" culture="neutral" />
@@ -58,6 +58,10 @@
       <dependentAssembly>
         <assemblyIdentity name="Microsoft.AspNetCore.Cryptography.Internal" publicKeyToken="adb9793829ddae60" culture="neutral" />
         <bindingRedirect oldVersion="0.0.0.0-10.0.1.0" newVersion="10.0.1.0" />
+      </dependentAssembly>
+      <dependentAssembly>
+        <assemblyIdentity name="ZstdSharp" publicKeyToken="8d151af33a4ad5cf" culture="neutral" />
+        <bindingRedirect oldVersion="0.0.0.0-0.8.8.0" newVersion="0.8.8.0" />
       </dependentAssembly>
     </assemblyBinding>
   </runtime>
