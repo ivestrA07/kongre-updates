@@ -1,5 +1,3 @@
-v1.0.0.8
+v1.0.0.9
 
-- ProgressBar'lı update ekranı
-- Salon giriş raporu iyileştirildi
 - Uygulama update düzeltilecek
