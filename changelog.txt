@@ -1,5 +1,0 @@
-v1.0.0.2 Mayıs 2026 Güncellemesi
-
-- Uygulama test aşamasında.
-
-- Tasarım yenilendi.
