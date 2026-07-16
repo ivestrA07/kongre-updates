@@ -1,5 +1,0 @@
-v1.0.0.3 Temmuz 2026 Güncellemesi
-
-- Gülşah hanımın iyileştirmeleri ve yeni özellikler eklendi.
-
-- Tasarım iyileştirildi.
