@@ -1,5 +1,6 @@
-v1.0.0.5 Temmuz 2026 Güncellemesi
+v1.0.0.6 Temmuz 2026 Güncellemesi
 
-- Gülşah hanımın iyileştirmeleri ve yeni özellikler eklendi.
-
-- Tasarım iyileştirildi.
+- FİZİKİ Mİ ONLİNE MI KATILIMCI TÜRÜ - EKLENDİ
+- EXCEL LİSTE İLE ODA PAYLAŞIMI EKLEME - EKLENDİ
+- TRANSFERDE  BİLET SPONSORU EKLE - EKLENDİ
+- Havayolu: -> Uçuş Kodu: olarak değiştir. - DEĞİŞTİ
