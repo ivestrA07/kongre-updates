@@ -1,4 +1,4 @@
-v1.0.0.7 Temmuz 2026 Güncellemesi
+v1.0.0.8 Temmuz 2026 Güncellemesi
 
 - FİZİKİ Mİ ONLİNE MI KATILIMCI TÜRÜ - EKLENDİ
 - EXCEL LİSTE İLE ODA PAYLAŞIMI EKLEME - EKLENDİ
