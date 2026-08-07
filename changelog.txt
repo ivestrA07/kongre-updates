@@ -1,0 +1,7 @@
+v1.0.0.9 Temmuz 2026 Güncellemesi
+
+- FİZİKİ Mİ ONLİNE MI KATILIMCI TÜRÜ - EKLENDİ
+- EXCEL LİSTE İLE ODA PAYLAŞIMI EKLEME - EKLENDİ
+- TRANSFERDE  BİLET SPONSORU EKLE - EKLENDİ
+- Havayolu: -> Uçuş Kodu: olarak değişti.
+- KİOSK Modu Yenilendi.
